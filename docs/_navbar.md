@@ -1,4 +1,4 @@
 <!-- _navbar.md -->
 
-* [Github⭐](https://github.com/opensource-f2f/ospp-best-practice/)
+* [作者🥲](https://twitter.com/wjsvector)
 * [友链🥰](/friend.md)
