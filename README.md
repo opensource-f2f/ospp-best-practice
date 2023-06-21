@@ -38,7 +38,7 @@ p.s. 笔者做为曾经进阶项目的结项学生想说，如果每个项目都
 | 申请成功后，coding 中如何规划好时间           | 三咲智子 or rinchannow          | 非常熟悉开源而且超级超级高产的同学        |
 | 我的项目如何保证代码质量，顺利的通过结项   | wusheng or tison or WillemJiang | [apache](https://github.com/apache) Member，Apache 的项目以代码质量高和严格而闻名 |
 | 开源之夏项目结项后我还能做什么             | wusheng or tison or WillemJiang | [apache](https://github.com/apache) Member，Apache 的项目同时以其长久维护而闻名 |
-
+| OSPP 2021 & GSoC 2022 参与经历             | everyone | OSPP 2021 & GSoC 2022 参与者 |
 
 
 ### 参考
