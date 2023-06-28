@@ -32,13 +32,13 @@ p.s. 笔者做为曾经进阶项目的结项学生想说，如果每个项目都
 
 | 文章                                       | 期望的 reviewer                 | 简介                                                         |
 | ------------------------------------------ | ------------------------------- | ------------------------------------------------------------ |
-| 开源之夏活动简介                           | 李梦                            | 官方运营，开源之夏发起人之一，线下 meet up 中数次做为开场白介绍过开源之夏 |
-| 开源之夏活动安利（我从开源之夏收获了什么） | wjsvec                          | 2022开源之夏结项学生，首位开源之夏校园大使，北邮人中开源之夏安利狂魔 |
-| 要怎么写出一份精彩的项目申请书             | Rick                            | “开源面对面”播主，前 gsoc 和开源之夏 mentor                  |
-| 申请成功后，coding 中如何规划好时间           | 三咲智子 or rinchannow          | 非常熟悉开源而且超级超级高产的同学        |
-| 我的项目如何保证代码质量，顺利的通过结项   | wusheng or tison or WillemJiang | [apache](https://github.com/apache) Member，Apache 的项目以代码质量高和严格而闻名 |
-| 开源之夏项目结项后我还能做什么             | wusheng or tison or WillemJiang | [apache](https://github.com/apache) Member，Apache 的项目同时以其长久维护而闻名 |
-| OSPP 2021 & GSoC 2022 参与经历             | everyone | OSPP 2021 & GSoC 2022 参与者 |
+| [开源之夏活动简介](./docs/best-practice/%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F%E6%B4%BB%E5%8A%A8%E7%AE%80%E4%BB%8B.md)                           | 李梦                            | 官方运营，开源之夏发起人之一，线下 meet up 中数次做为开场白介绍过开源之夏 |
+| [开源之夏活动安利（我从开源之夏收获了什么）](./docs/best-practice/%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F%E6%B4%BB%E5%8A%A8%E5%AE%89%E5%88%A9%EF%BC%88%E6%88%91%E4%BB%8E%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F%E6%94%B6%E8%8E%B7%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%89.md) | wjsvec                          | 2022开源之夏结项学生，首位开源之夏校园大使，北邮人中开源之夏安利狂魔 |
+| [要怎么写出一份精彩的项目申请书](./docs/best-practice/%E8%A6%81%E6%80%8E%E4%B9%88%E5%86%99%E5%87%BA%E4%B8%80%E4%BB%BD%E7%B2%BE%E5%BD%A9%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%94%B3%E8%AF%B7%E4%B9%A6.md)             | Rick                            | “开源面对面”播主，前 gsoc 和开源之夏 mentor                  |
+| [申请成功后，coding 中如何规划好时间](./docs/best-practice/%E7%94%B3%E8%AF%B7%E6%88%90%E5%8A%9F%E5%90%8E%EF%BC%8Ccoding%20%E4%B8%AD%E5%A6%82%E4%BD%95%E8%A7%84%E5%88%92%E5%A5%BD%E6%97%B6%E9%97%B4.md)           | 三咲智子 or rinchannow          | 非常熟悉开源而且超级超级高产的同学        |
+| [我的项目如何保证代码质量，顺利的通过结项](./docs/best-practice/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E4%BB%A3%E7%A0%81%E8%B4%A8%E9%87%8F%EF%BC%8C%E9%A1%BA%E5%88%A9%E7%9A%84%E9%80%9A%E8%BF%87%E7%BB%93%E9%A1%B9.md)   | wusheng or tison or WillemJiang | [apache](https://github.com/apache) Member，Apache 的项目以代码质量高和严格而闻名 |
+| [开源之夏项目结项后我还能做什么](./docs/best-practice/%E5%BC%80%E6%BA%90%E4%B9%8B%E5%A4%8F%E9%A1%B9%E7%9B%AE%E7%BB%93%E9%A1%B9%E5%90%8E%E6%88%91%E8%BF%98%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88.md)             | wusheng or tison or WillemJiang | [apache](https://github.com/apache) Member，Apache 的项目同时以其长久维护而闻名 |
+| [OSPP 2021 & GSoC 2022 参与经历](./docs/best-practice/OSPP%202021%20%26%20GSoC%202022%20%E5%8F%82%E4%B8%8E%E7%BB%8F%E5%8E%86.md)             | everyone | OSPP 2021 & GSoC 2022 参与者 |
 
 
 ### 参考
